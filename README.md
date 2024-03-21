@@ -33,6 +33,13 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">Support:</h3>
+
+<p><a href="https://www.buymeacoffee.com/vikramsinghnegi"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vikramsinghnegi" /></a></p><br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <h3 align="left">Backend</h3>
 
@@ -99,6 +106,14 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left"> Graph </h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramsinghnegi&show_icons=true&locale=en&layout=compact" alt="vikramsinghnegi" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vikramsinghnegi&show_icons=true&locale=en" alt="vikramsinghnegi" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramsinghnegi&" alt="vikramsinghnegi" /></p>
 
 
 
