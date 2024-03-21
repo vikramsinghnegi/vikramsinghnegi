@@ -1,15 +1,28 @@
-<h1 align="center">Hi 👋, I'm vikram singh</h1>
-<h3 align="center">I'm a passionate developer who is fond of turning ideas into reality. Over the past few years, I've gained experience as a front-end  developer by working on projects and being able to make elegant front-end websites with immense features. I have intermediate knowledge about Webhosting and experience in efficient and effective email marketing. I'm also a cybersecurity security enthusiast constantly trying to learn more in this domain. Also, a proud cryptocurrency enthusiast who has been in the space since 2018</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramsinghnegi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsinghnegi" /> </p>
 
-- 🔭 I’m currently working on **frontend-project**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+everyone!;!;!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-- 🌱 I’m currently learning **javascript ,tailwind CSS**
+<h6 align="center">Hi 👋, I'm vikram singh
+<h6 align="center">I'm a passionate developer who is fond of turning ideas into reality. Over the past few years, I've gained experience as a front-end  developer by working on projects and being able to make elegant front-end websites with immense features.  I'm also a cybersecurity security enthusiast constantly trying to learn more in this domain. 
 
-- 💬 Ask me about **HTML5 , CSS3 JAVASCRIPT**
+  
+<p align="centert"> <img src="https://komarev.com/ghpvc/?username=vikramsinghnegi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsinghnegi" /> </p>
 
-- 📫 How to reach me **vsnegi1512400@gmail.com**
+
+<h6 align="left">
+  
+  🔭 I’m currently working on frontend-project.
+  
+  🌱 I’m currently learning javascript ,tailwind CSS.
+  
+ 💬 Ask me about  Html5 , Css3 Javascript.
+ 
+📫 How to reach me vsnegi1512400@gmail.com
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <h3 align="center">Connect with me:</h3>
@@ -18,12 +31,12 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_capture__crews)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsnegi1512400@gmail.com)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+<h3 align="left">Backend</h3>
 
-<h3 align="center">Languages and Tools:</h3>
 
-Backend
 <div align="center">
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -32,7 +45,9 @@ Backend
  </a>
 </p>
 
-Frontend
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Frontend </h3>
 <div align="center">
   
   [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.example.com)
@@ -41,16 +56,23 @@ Frontend
 
  </a>
 </p>
- Database
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left"> Database </h3>
+
 <p align="center">
   
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.example.com)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
   </a>
 </p>
 
- Design
-<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">  Design </h3>
+
   
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -62,8 +84,10 @@ Frontend
   </a>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
- Frameworks, Platforms and Libraries
+<h3 align="left"> Frameworks </h3>
+ 
 <div align="center">
   
   ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -74,15 +98,7 @@ Frontend
   </a>
 </p>
 
-
-
- Database
-<div align="center">
-  
-  [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.example.com)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  </a>
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
