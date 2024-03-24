@@ -21,9 +21,7 @@
  
 📫 How to reach me vsnegi1512400@gmail.com
 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -36,13 +34,10 @@
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/vikramsinghnegi"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vikramsinghnegi" /></a></p><br><br>
-
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vikramsinghnegi" /></a></p><br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
 <h3 align="left">Backend</h3>
-
 
 <div align="center">
   
@@ -51,7 +46,6 @@
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
  </a>
 </p>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Frontend </h3>
