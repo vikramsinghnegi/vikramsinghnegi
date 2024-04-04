@@ -7,9 +7,7 @@
 <h6 align="center">Hi 👋, I'm vikram singh
 <h6 align="center">I'm a passionate developer who is fond of turning ideas into reality. Over the past few years, I've gained experience as a front-end  developer by working on projects and being able to make elegant front-end websites with immense features.  I'm also a cybersecurity security enthusiast constantly trying to learn more in this domain. 
 
-  
-<p align="centert"> <img src="https://komarev.com/ghpvc/?username=vikramsinghnegi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsinghnegi" /> </p>
-
+  <p align="centert"> <img src="https://komarev.com/ghpvc/?username=vikramsinghnegi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsinghnegi" /> </p>
 
 <h6 align="left">
   
